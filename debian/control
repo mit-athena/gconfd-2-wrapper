@@ -2,8 +2,8 @@ Source: debathena-gconfd-2-wrapper
 Section: debathena/gnome
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: @cdbs@, lsb-release
-Standards-Version: 3.7.2
+
+Standards-Version: 3.9.3
 
 Package: debathena-gconfd-2-wrapper
 Architecture: all
