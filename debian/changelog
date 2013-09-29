@@ -1,3 +1,10 @@
+debathena-gconfd-2-wrapper (10.0.3) unstable; urgency=low
+
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (native)
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 05:37:12 -0400
+
 debathena-gconfd-2-wrapper (10.0.2) unstable; urgency=low
 
   * Switch from control.in to control (Trac: #561)
